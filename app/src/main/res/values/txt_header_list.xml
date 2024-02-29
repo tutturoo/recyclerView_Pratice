@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="txt_header_list">
+        <item>Harga Minyak Dunia Terjun Bebas, Anjlok 5% Lebih!</item>
+        <item>Gempa Bumi Bermagnitudo 6,2 Guncang Jawa Barat, Terasa di Jakarta!</item>
+        <item>Kasus Covid-19 Kembali Naik, Pemerintah Berlakukan PPKM Level 3!</item>
+        <item>Puluhan Ribu Warga Terdampak Banjir di Jawa Tengah, BPBD Siaga!</item>
+        <item>Presiden Jokowi Resmikan Tol Semarang-Demak, Seksi 1 dan 2 Siap Dilalui!</item>
+        <item>Timnas Indonesia Menang Telak Melawan Brunei Darussalam di Piala AFF!</item>
+        <item>Harga Bahan Pokok Naik Jelang Ramadhan, Pemerintah Gelar Pasar Murah!</item>
+        <item>Kebakaran Pabrik di Tangerang, Petugas Damkar Berjibaku Melawan Api!</item>
+        <item>Peluncuran iPhone 15 di Indonesia, Antusiasme Penggemar Tinggi!</item>
+    </string-array>
+</resources>

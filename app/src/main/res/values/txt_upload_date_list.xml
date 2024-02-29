@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="txt_upload_date_list">
+    <item>Rabu, 21 Februari 2024</item>
+    <item>Rabu, 21 Februari 2024</item>
+    <item>Rabu, 21 Februari 2024</item>
+    <item>Selasa, 20 Februari 2024</item>
+    <item>Senin, 19 Februari 2024</item>
+    <item>Minggu, 18 Februari 2024</item>
+    <item>Sabtu, 17 Februari 2024</item>
+    <item>Jumat, 16 Februari 2024</item>
+</string-array>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="txt_publisher_list">
+        <item>Kompas</item>
+        <item>Detik</item>
+        <item>Tempo</item>
+        <item>CNN Indonesia</item>
+        <item>Republika</item>
+        <item>Liputan6</item>
+        <item>CNBC Indonesia</item>
+        <item>Antara</item>
+        <item>Jawa Pos</item>
+        <item>Tribunnews</item>
+    </string-array>
+</resources>
