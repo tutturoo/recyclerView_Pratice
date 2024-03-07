@@ -65,10 +65,6 @@ public class Adapter extends RecyclerView.Adapter<Adapter.layoutIdGetter>{
         }
     }
 
-    public itemSetter getItem(int id) {
-        return item.get(id);
-    }
-
     public void setClickListener(ItemClickListener itemClickListener) {
         this.mClickListener = itemClickListener;
     }
